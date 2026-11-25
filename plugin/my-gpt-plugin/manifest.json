@@ -1,0 +1,11 @@
+{
+  "id": "my-gpt-plugin",
+  "name": "My GPT Plugin",
+  "version": "0.1.0",
+  "status": "scaffold",
+  "description": "Starter manifest for a modular GPT plugin.",
+  "entrypoints": {
+    "instructions": "instructions/system.md",
+    "skills": "skills/"
+  }
+}
